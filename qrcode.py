@@ -1,3 +1,5 @@
+# Source: https://www.youtube.com/watch?v=D0PfZQ4nMIQ
+
 import qrcode
 import image
 
